@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "bot01",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Unstablesmp-s.aternos.me",
     "port": 13443,
-    "version": "26.2",
+    "version": "26.44",
     "try-creative": false
   },
   "position": {
